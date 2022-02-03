@@ -1,0 +1,8 @@
+Comandos básicos do Portugol:
+
+// - add comentário
+\n - quebra de página
++ - concatenar
+++ - add 1
+escreva () - para escrever mensagem
+leia () - para receber informação
